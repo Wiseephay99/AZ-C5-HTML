@@ -5,3 +5,9 @@ body {
 h1 {
     color: blue;
 }
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 40%;
+}
+tr:hover {background-color: #D6EEEE;}
